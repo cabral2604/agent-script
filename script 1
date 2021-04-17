@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#author : Cabral
+
+if [ $? -eg 0 ]
+
+then
+sleep 5
+echo "successfull"
+else
+slep 4
+echp "not suceessfull"
+
+fi
