@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#author : Cabral
+#author : Cabral Degah Wops
 
 if [ $? -eg 0 ]
 
